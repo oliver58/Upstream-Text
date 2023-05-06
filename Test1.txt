@@ -2,3 +2,4 @@ Testing creating an upstream so you can simply use the git fetch, push and pull 
 Modify in remote repo.
 
 Another test.
+Modify to test commit.
